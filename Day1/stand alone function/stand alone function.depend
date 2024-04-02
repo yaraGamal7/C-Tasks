@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699268251 source:c:\users\lap top\desktop\stand alone function\main.cpp
+	<iostream>
+	<string.h>
+
